@@ -5,6 +5,8 @@ Welcome to a reviewr nuance parser in Spark!
 
 In this project, we try to see whether any emotional response in a product review text is correlated with the actual review rating given by a user.
 
+https://github.com/kahye/amazon_review_emotion_score/blob/master/pipeline.png
+
 Here's step by step guide to run the parser on EC2 cluster.
 
 1. Download Spark and launch the clusters.
